@@ -7,18 +7,28 @@
 
 ## Project Description
 
-### Project 0: Guass Elimination
-For a detailed project description, please refer to the [Project Description PDF](./Project0/LinearAlgebra_Project00.pdf). <br />
-The results report is provided in the [Project Report PDF](./Project0/توضیحات%20پروژه.pdf)
+### Project 01: Password Security and Encryption
+For a detailed project description, please refer to the [Project Description PDF](./Prj1.pdf). <br />
+The results report is provided in the [Project Report PDF](./Prj1_Nazari_9931061.pdf). <br />
+The implemented Project Code is in [Project Code Folder](./SecurityCourseProject01).
 
-### Project 1: Jabr Scanner
-For a detailed project description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
+### Project 02: Penetration Testing and Scanning
+For a detailed project description, please refer to the [Project Description PDF](./Prj2.pdf). <br />
+The results report is provided in the [Project Report PDF](./Prj2_Nazari_9931061.pdf). <br />
+The implemented Project Code is in [Project Code Folder](./SecurityCourseProject02).
+
+### Project 03: Password Creation and Management Tool
+For a detailed project description, please refer to the [Project Description PDF](./Prj3.pdf). <br />
+The results report is provided in the [Project Report PDF](./Prj3_Nazari_9931061.pdf). <br />
+The implemented Project Code is in [Project Code Folder](./SecurityProject3).
 
 ## Dependencies
 This project uses the following libraries:
 
-- [numpy](https://numpy.org/)
-- [matplotlib](https://matplotlib.org/)
+- [re](https://numpy.org/)
+- [ipaddress](https://matplotlib.org/)
+- [nmap]()
+- [cryptography]()
 
 ## IDE
 This project is developed using Pycharm.
