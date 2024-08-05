@@ -25,10 +25,10 @@ The implemented Project Code is in [Project Code Folder](./SecurityProject3).
 ## Dependencies
 This project uses the following libraries:
 
-- [re](https://numpy.org/)
-- [ipaddress](https://matplotlib.org/)
-- [nmap]()
-- [cryptography]()
+- [re](https://docs.python.org/3/library/re.html)
+- [ipaddress](https://docs.python.org/3/library/ipaddress.html)
+- [nmap](https://docs.python.org/3/library/re.html)
+- [cryptography](https://docs.python.org/3/library/re.html)
 
 ## IDE
 This project is developed using Pycharm.
