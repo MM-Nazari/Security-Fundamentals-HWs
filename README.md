@@ -27,7 +27,7 @@ This project uses the following libraries:
 
 - [re](https://docs.python.org/3/library/re.html)
 - [ipaddress](https://docs.python.org/3/library/ipaddress.html)
-- [nmap]([https://docs.python.org/3/library/re.html](https://nmap.org/)
+- [nmap](https://nmap.org/)
 - [cryptography](https://cryptography.io/en/latest/)
 
 ## IDE
