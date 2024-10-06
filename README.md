@@ -13,12 +13,12 @@ The results report is provided in the [Project Report PDF](./Prj1_Nazari_9931061
 The implemented Project Code is in [Project Code Folder](./SecurityCourseProject01).
 
 ### Project 02: Penetration Testing and Scanning
-For a detailed project description, please refer to the [Project Description PDF](./Prj2.pdf). <br />
+For a detailed project description, please refer to the [Project Description PDF](./prj2.pdf). <br />
 The results report is provided in the [Project Report PDF](./Prj2_Nazari_9931061.pdf). <br />
 The implemented Project Code is in [Project Code Folder](./SecurityCourseProject02).
 
 ### Project 03: Password Creation and Management Tool
-For a detailed project description, please refer to the [Project Description PDF](./Prj3.pdf). <br />
+For a detailed project description, please refer to the [Project Description PDF](./prj3.pdf). <br />
 The results report is provided in the [Project Report PDF](./Prj3_Nazari_9931061.pdf). <br />
 The implemented Project Code is in [Project Code Folder](./SecurityProject3).
 
